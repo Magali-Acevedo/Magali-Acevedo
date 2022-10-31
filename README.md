@@ -37,7 +37,8 @@ Repositorios:
 
 ### Detrás de todo esto hay horas de práctica 🥱 mucha frustración 🤬   
 ### muchos typos 🙄 unos cuantos mates 🧉 y sobre todo mucho ♥   
-### Se aprendió de cada error y mientras más atrás veo más orgullosa del camino recorrido y todavia falta. 🤩
+### Se aprendió de cada error y mientras más atrás veo más orgullosa  
+### del camino recorrido y todavia falta. 🤩
 
 Se agradece cualquier aporte que ayude a mejorar.  
 Creo que estamos en constante aprendizaje y siempre hay algo nuevo.
