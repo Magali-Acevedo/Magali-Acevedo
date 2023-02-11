@@ -7,11 +7,12 @@
 Realice dos sitios de peliculas:  
 El primero fue hecho con el curso de SkillUp de Alkemy se realizó en React
 
-[MovieApp](https://github.com/Magali-Acevedo/alke-react/tree/master)
+[MovieApp](https://github.com/Magali-Acevedo/alke-react/tree/master/ProjectAlkemy/alke-react)
 
 El segundo se realizó en la triologia de cursos Consumo de API REST con JavaScript
 
 [PlatziMovies](https://github.com/Magali-Acevedo/platzi-peliculas)
+[IR a la página](https://magali-acevedo.github.io/platzi-peliculas/)
 
 
 ### Tienda onLine
